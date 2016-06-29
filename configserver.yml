@@ -1,1 +1,19 @@
-
+spring:
+  application:
+    name: springcloud
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/ameenmohamed/hacconfig.git
+security:
+  user: 
+   name: microsrv
+   password: Password1 
+      
+management:
+  context-path: /admin
+  
+logging:
+  level:
+    org.springframework.cloud: 'DEBUG'
