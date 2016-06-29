@@ -1,0 +1,4 @@
+ws:
+  hoovers:
+    api.address: http://someurl:8011/DALServices/Hoovers
+    gzip.api.address: http://sdk-oorl:8080/DnBAPI-11
