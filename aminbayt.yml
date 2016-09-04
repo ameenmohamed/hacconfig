@@ -1,3 +1,19 @@
+ameenbayt:
+  HmConappKey: 
+    dateFormat: MM-dd-yyyy hh:mm:ss
+    appKey: '{cipher}8e16efd3cef978003efc5f274c632d44175a3c9b1dbf102bd139956e922d30b4'
+    accessToken: '{cipher}c0865716508851b22e2d3a1cc2df28d78f69a53e36a08b4e9543d9ce4c6aa033739af70181f3c14d0c92d2315f2108d780436690ae7a195a20df82530ff67d8cb9e79c3281f5578b45b020a25dabcd0dcdb7e33a0c0a46497f5b289e77e82105'
+    dbPicLocation: /pi/shafipi/
+    dbVidLocation: /pi/shafipi/video/
+    raspiVidpath: /home/pi/mmal/vid/
+    imgResizeValue: 1550
+    lightOnCmdS1: '{cipher}6d4db669a211dec8894d22ba8fa7db7c0a4f2254025132c7ae1ca3514461d9d1'
+    lightOffCmdS1: '{cipher}4e0799c6d01d0a5752cb618e5e0a41ea2f96218fcc92f3252dc7fe587ff10d99'
+    imgWidth: 1550
+    imgHeight: 1163
+    activateSecurity: false
+    
+
 ---
 spring:
   application:
