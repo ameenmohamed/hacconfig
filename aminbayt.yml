@@ -18,6 +18,3 @@ ameenbayt:
 spring:
   application:
     name: aminbayt
----
-spring:
-  profiles: dev
