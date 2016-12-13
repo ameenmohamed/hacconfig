@@ -1,14 +1,15 @@
 ameenbayt:
   baytConfig: 
     dateFormat: MM-dd-yyyy hh:mm:ss
-    appKey: '{cipher}8e16efd3cef978003efc5f274c632d44175a3c9b1dbf102bd139956e922d30b4'
-    accessToken: '{cipher}c0865716508851b22e2d3a1cc2df28d78f69a53e36a08b4e9543d9ce4c6aa033739af70181f3c14d0c92d2315f2108d780436690ae7a195a20df82530ff67d8cb9e79c3281f5578b45b020a25dabcd0dcdb7e33a0c0a46497f5b289e77e82105'
+    appKey: '{cipher}d59c441c33ca038b678eb944f33c4a90b122f4415d481494b48f4c69f42d00be'
+    accessToken: '{cipher}50834f26efaa59ce7b6ce97c467a11c49a4b45df9e475b874cee987e8bf31ad04fbb42ec3c625e72c8dfbec9f8eb077bc1a534f4e7d58118e79888d885a618c8f0f14f2cb34d668c0c30707133ac5f8ee18c552ff48a259523ef441f4d1cf6fa'
+    appSecret: '{cipher}a8780850002d7566b383535efcc4275a02dbb17fc26b52e6e265e2a11bfa82e5'
     dbPicLocation: /pi/shafipi/
     dbVidLocation: /pi/shafipi/video/
     raspiVidpath: /home/pi/mmal/vid/
     imgResizeValue: 1550
-    lightOnCmdS1: '{cipher}6d4db669a211dec8894d22ba8fa7db7c0a4f2254025132c7ae1ca3514461d9d1'
-    lightOffCmdS1: '{cipher}4e0799c6d01d0a5752cb618e5e0a41ea2f96218fcc92f3252dc7fe587ff10d99'
+    lightOnCmdS1: '{cipher}31d0972b221bd92ec7558a60846e370d148957e4e2598e2f1e209bfd0062a479'
+    lightOffCmdS1: '{cipher}28acbf5227675cefd93a59be106050d3760873f52b7240d5e7d2c9744cdc3786'
     imgWidth: 1550
     imgHeight: 1163
     activateSecurity: false
