@@ -14,7 +14,7 @@ ameenbayt:
     imgWidth: 1550
     imgHeight: 1163
     activateSecurity: false
-    picTimeout: 3000;
+    picTimeout: 3000
     
 
 ---
