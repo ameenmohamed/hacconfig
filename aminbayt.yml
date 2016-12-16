@@ -21,3 +21,6 @@ ameenbayt:
 spring:
   application:
     name: aminbayt
+logging:
+  level:
+    org.springframework.cloud: 'ERROR'    
