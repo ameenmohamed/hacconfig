@@ -15,6 +15,7 @@ ameenbayt:
     imgHeight: 1163
     activateSecurity: false
     picTimeout: 3000
+    motionPauseTime: 2
     
 
 ---
