@@ -16,6 +16,7 @@ ameenbayt:
     activateSecurity: false
     picTimeout: 3000
     motionPauseTime: 2
+    systemState: test
     
 
 ---
