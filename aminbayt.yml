@@ -9,7 +9,7 @@ ameenbayt:
     dbVidLocation: /pi/shafipi/video/
     raspiVidpath: /home/pi/mmal/vid/
     imgResizeValue: 1550
-    imgClickQuality: 50
+    imgClickQuality: 20
     raspistillPath: "/home/pi/mmal/pic"
     lightOnCmdS1: '{cipher}31d0972b221bd92ec7558a60846e370d148957e4e2598e2f1e209bfd0062a479'
     lightOffCmdS1: '{cipher}28acbf5227675cefd93a59be106050d3760873f52b7240d5e7d2c9744cdc3786'
