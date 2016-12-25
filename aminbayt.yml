@@ -18,6 +18,7 @@ ameenbayt:
     picTimeout: 3000
     motionPauseTime: 2
     systemState: prod
+    burstCount: 5
     
 
 ---
