@@ -1,6 +1,7 @@
 ameenbayt:
   baytConfig: 
     dateFormat: MM-dd-yyyy hh:mm:ss
+    timeFormat: yyyy-MM-dd'T'HH:mm:ss.SSSXXX
     appKey: '{cipher}d59c441c33ca038b678eb944f33c4a90b122f4415d481494b48f4c69f42d00be'
     accessToken: '{cipher}50834f26efaa59ce7b6ce97c467a11c49a4b45df9e475b874cee987e8bf31ad04fbb42ec3c625e72c8dfbec9f8eb077bc1a534f4e7d58118e79888d885a618c8f0f14f2cb34d668c0c30707133ac5f8ee18c552ff48a259523ef441f4d1cf6fa'
     appSecret: '{cipher}a8780850002d7566b383535efcc4275a02dbb17fc26b52e6e265e2a11bfa82e5'
